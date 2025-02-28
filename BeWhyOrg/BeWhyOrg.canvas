@@ -1,0 +1,595 @@
+{
+  "edges": [
+    {
+      "fromNode": "f52b57fd32295b84",
+      "fromSide": "left",
+      "id": "85e9b393eaf45f2d",
+      "styleAttributes": {
+      },
+      "toNode": "b01e7f7d63fd510e",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "49c8dace2a009b9b",
+      "fromSide": "left",
+      "id": "51017ace11f52441",
+      "styleAttributes": {
+      },
+      "toNode": "b01e7f7d63fd510e",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "d81c5c4b130753a4",
+      "fromSide": "left",
+      "id": "30fb7d6dcb0509f5",
+      "styleAttributes": {
+      },
+      "toNode": "b01e7f7d63fd510e",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "214013899431baff",
+      "fromSide": "left",
+      "id": "6fd600edcb0f4863",
+      "styleAttributes": {
+      },
+      "toNode": "d81c5c4b130753a4",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "214013899431baff",
+      "fromSide": "left",
+      "id": "2dcfbac6e0b0c78f",
+      "styleAttributes": {
+      },
+      "toNode": "49c8dace2a009b9b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "214013899431baff",
+      "fromSide": "left",
+      "id": "3ac2b13ee11e55fd",
+      "styleAttributes": {
+      },
+      "toNode": "b01e7f7d63fd510e",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "33218b6f3ed9d3a3",
+      "fromSide": "right",
+      "id": "10075365155d7b52",
+      "styleAttributes": {
+      },
+      "toNode": "b01e7f7d63fd510e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "9b755b095f445194",
+      "fromSide": "bottom",
+      "id": "7156f9759372ca0f",
+      "styleAttributes": {
+      },
+      "toNode": "70d2094425d0f5ac",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "70d2094425d0f5ac",
+      "fromSide": "bottom",
+      "id": "7f5ba2dc999134d3",
+      "styleAttributes": {
+      },
+      "toNode": "a3e2de9c93b6406e",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "a3e2de9c93b6406e",
+      "fromSide": "bottom",
+      "id": "fa11bebc5b620d31",
+      "styleAttributes": {
+      },
+      "toNode": "da6e797fc76cc253",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "da6e797fc76cc253",
+      "fromSide": "right",
+      "id": "98df54f81f873905",
+      "styleAttributes": {
+      },
+      "toNode": "a4aa141a3c70154a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a3e2de9c93b6406e",
+      "fromSide": "left",
+      "id": "d6550c2031226ea8",
+      "styleAttributes": {
+      },
+      "toNode": "70d2094425d0f5ac",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "da6e797fc76cc253",
+      "fromSide": "left",
+      "id": "643c812229ce2ce8",
+      "styleAttributes": {
+      },
+      "toNode": "70d2094425d0f5ac",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d5b1c2a50a006f1b",
+      "fromSide": "left",
+      "id": "f4e60086fd2e7a64",
+      "styleAttributes": {
+      },
+      "toNode": "70d2094425d0f5ac",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d5b1c2a50a006f1b",
+      "fromSide": "right",
+      "id": "8874e2722ca552d1",
+      "styleAttributes": {
+      },
+      "toNode": "a4aa141a3c70154a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "9b755b095f445194",
+      "fromSide": "left",
+      "id": "133a462237a53479",
+      "styleAttributes": {
+        "path": "long-dashed",
+        "pathfindingMethod": null
+      },
+      "toNode": "786084b982c0ae7d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "786084b982c0ae7d",
+      "fromSide": "bottom",
+      "id": "925307878a0ce629",
+      "styleAttributes": {
+      },
+      "toNode": "d5b1c2a50a006f1b",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "da6e797fc76cc253",
+      "fromSide": "left",
+      "id": "fd51edb206f691f7",
+      "styleAttributes": {
+        "path": "dotted"
+      },
+      "toNode": "3da77d9de219f6de",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "da6e797fc76cc253",
+      "fromSide": "bottom",
+      "id": "3961fd3e110065aa",
+      "styleAttributes": {
+      },
+      "toNode": "d5b1c2a50a006f1b",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "d5b1c2a50a006f1b",
+      "fromSide": "bottom",
+      "id": "980c767875fc6e6c",
+      "styleAttributes": {
+      },
+      "toNode": "3da77d9de219f6de",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "3da77d9de219f6de",
+      "fromSide": "right",
+      "id": "a91b8850b2509cde",
+      "styleAttributes": {
+      },
+      "toNode": "bf045baca8189bdc",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a4aa141a3c70154a",
+      "fromSide": "bottom",
+      "id": "207b29ba6c330a71",
+      "styleAttributes": {
+      },
+      "toNode": "ecbc3ae26cc21f0d",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "a4aa141a3c70154a",
+      "fromSide": "bottom",
+      "id": "5188d4002b9bbbf5",
+      "styleAttributes": {
+      },
+      "toNode": "3c87c17a730abd65",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "ecbc3ae26cc21f0d",
+      "fromSide": "right",
+      "id": "6862007ab3ca977f",
+      "styleAttributes": {
+        "path": "short-dashed"
+      },
+      "toNode": "3c87c17a730abd65",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3c87c17a730abd65",
+      "fromSide": "left",
+      "id": "80984216c6d184b2",
+      "styleAttributes": {
+        "path": "short-dashed"
+      },
+      "toNode": "ecbc3ae26cc21f0d",
+      "toSide": "right"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 2500,
+      "id": "4478318e1dedfb57",
+      "label": "Main BD",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 2241,
+      "x": -3140,
+      "y": -1380
+    },
+    {
+      "height": 1550,
+      "id": "5d442dbec4e736ec",
+      "label": "Fase 1",
+      "type": "group",
+      "width": 1000,
+      "x": -640,
+      "y": -1380
+    },
+    {
+      "height": 576,
+      "id": "ccc7b3adddf4094b",
+      "label": "Fase 2",
+      "type": "group",
+      "width": 2080,
+      "x": 1140,
+      "y": -740
+    },
+    {
+      "height": 660,
+      "id": "6668cbc2aae27951",
+      "label": "Complicadas",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 939,
+      "x": -1859,
+      "y": 440
+    },
+    {
+      "height": 580,
+      "id": "33922ba1c3101db6",
+      "label": "Instituições",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 940,
+      "x": -1859,
+      "y": -840
+    },
+    {
+      "height": 500,
+      "id": "33c2d00f119a1d17",
+      "label": "Leis",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 939,
+      "x": -1859,
+      "y": -160
+    },
+    {
+      "height": 431,
+      "id": "620f85c60fa3a0cc",
+      "label": "Cidadão",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 940,
+      "x": -1860,
+      "y": -1360
+    },
+    {
+      "height": 300,
+      "id": "f8cca604b9225050",
+      "label": "Untitled group",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 300,
+      "x": -1399,
+      "y": 0
+    },
+    {
+      "file": "assets/Leis.png",
+      "height": 400,
+      "id": "f52b57fd32295b84",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -1839,
+      "y": -140
+    },
+    {
+      "height": 60,
+      "id": "301cd3ca45d20f80",
+      "styleAttributes": {
+      },
+      "text": "[[Leis de Portugal]]",
+      "type": "text",
+      "width": 400,
+      "x": -1839,
+      "y": 260
+    },
+    {
+      "file": "assets/Complicadas.png",
+      "height": 278,
+      "id": "214013899431baff",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -1839,
+      "y": 460
+    },
+    {
+      "file": "assets/Instituições.png",
+      "height": 347,
+      "id": "49c8dace2a009b9b",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 399,
+      "x": -1840,
+      "y": -820
+    },
+    {
+      "file": "assets/Cidadao.png",
+      "height": 391,
+      "id": "d81c5c4b130753a4",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -1841,
+      "y": -1340
+    },
+    {
+      "file": "assets/Kernel.png",
+      "height": 397,
+      "id": "b01e7f7d63fd510e",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -2560,
+      "y": -413
+    },
+    {
+      "file": "assets/CRM.png",
+      "height": 261,
+      "id": "33218b6f3ed9d3a3",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -3120,
+      "y": -345
+    },
+    {
+      "height": 460,
+      "id": "545d3d624adce5e0",
+      "styleAttributes": {
+      },
+      "text": "**Comentários**\n\n- <u>Fase 1</u> - Basicamente a importação dos dados significa o termino da fase; a estabilização destas tabelas é que premiram outras trabalhar\n\t- Todo o Swap_Dre Tretas é para introduzir aqui, só é necessário de fazer a consulta\n\t- Estamos a usar campos enum, na *lei_emissores*, para saber a que instituição estamos a interligar a sua criação, ter sempre a atenção as datas, para ir buscar o filho certo\n- <u>Fase 3</u> - Ainda não pensei detalhadamente tão à frente, mas a ideia é que com os dados organizados, posso exportar de 1000 maneiras.",
+      "type": "text",
+      "width": 499,
+      "x": -1439,
+      "y": -140
+    },
+    {
+      "height": 620,
+      "id": "2e4a8fd5aa09834f",
+      "styleAttributes": {
+      },
+      "text": "**Comentários**\n\nDuvido que a <u>Fase 1</u> dedique muito mais tempo a isto, será mais para a <u>Fase 3</u>. A dificuldade destas tabelas advém de 3 níveis:\n\n- *entidade_juridicas* - Para além de ser um termo legal, determina camadas de (in)dependência do organismo central de estado que já hierarquiza as suas instituições.\n\t- Tudo começou como definir o DRe ou CNE\n\t- Como aferir/saber por cada instituição a sua entidade e ramo?\n- *relacoes* - as relações abstractas que podem acontecer entre id das BD, tipo A e B relacionam-se por C\n- *Cargos e Cidadãos* - A ideia é que um cargo não existe do éther, terá de existir uma instituição que cria cargos, e nomeia Cidadãos (em tempos diferentes), para o mesmo cargo.\n\t- O nascimento deve estar associado a uma lei, e a nomeação também",
+      "type": "text",
+      "width": 499,
+      "x": -1439,
+      "y": 460
+    },
+    {
+      "height": 60,
+      "id": "44fdc08babca901c",
+      "styleAttributes": {
+      },
+      "text": "[[Complicadas]]",
+      "type": "text",
+      "width": 400,
+      "x": -1839,
+      "y": 740
+    },
+    {
+      "height": 540,
+      "id": "74cd0e1e40b2573d",
+      "styleAttributes": {
+      },
+      "text": "**Comentários**\n\n- <u>Fase 1</u> - Tarefa prioritária, já começa a desenhar muitas das barreiras que necessitamos\n\t- Não confundir *instituicao_leis*, relação sempre que referido não interessa porquê, com a *lei_emissores* que vem ligar aqui, mas são apenas as criadas por esta instituição\n\t- Com Ramos é um objectivo de tipificar a instituição com outro tipo de procura, que não seja só entidade jurídica:\n\t\t- Conjunto de executivo, legislativo, judicial\n\t\t- Conjunto de cultura, saúde, educação\n- <u>Fase 3</u> - Continuar a encontrar novas, mas já poderemos consultar o que existe\n- <u>Importante</u> As tabelas *instittuicao_legislaturas* e *instituicao_presidencial* devem representar as mudanças das instituições, pós ciclo eleitural ",
+      "type": "text",
+      "width": 501,
+      "x": -1441,
+      "y": -820
+    },
+    {
+      "height": 60,
+      "id": "d9c0bcf4a585a7f4",
+      "styleAttributes": {
+      },
+      "text": "[[Instituições e Ciclos Políticos]]",
+      "type": "text",
+      "width": 399,
+      "x": -1839,
+      "y": -473
+    },
+    {
+      "height": 300,
+      "id": "b7a4f06aa2e904e7",
+      "styleAttributes": {
+      },
+      "text": "**Cometários**\n- Na Fase 1 - organização de dados - Os dados do Parlamento.pt já nos fornece muita informação;\n- Na Fase 2 - tendo em conta que já temos também outras instituições, já podemos *query* para completar mais pessoas já publicamente associáveis\n- Na Fase 3 - Mais complicado em extrair os dados do DRe",
+      "type": "text",
+      "width": 500,
+      "x": -1441,
+      "y": -1340
+    },
+    {
+      "height": 60,
+      "id": "ec9d9e2f24b2dcf9",
+      "styleAttributes": {
+      },
+      "text": "[[Cidadãos]]",
+      "type": "text",
+      "width": 501,
+      "x": -1442,
+      "y": -1040
+    },
+    {
+      "height": 160,
+      "id": "a4aa141a3c70154a",
+      "styleAttributes": {
+      },
+      "text": "# STEP\n\n- Pode Começar Discretamente a [[Fase 2]]",
+      "type": "text",
+      "width": 960,
+      "x": 1160,
+      "y": -726
+    },
+    {
+      "height": 190,
+      "id": "da6e797fc76cc253",
+      "styleAttributes": {
+      },
+      "text": "# STEP\n\n- Instituições\n\t- Anexos Em Download\n\t- Página Parlamento, envolve já Cidadãos",
+      "type": "text",
+      "width": 960,
+      "x": -620,
+      "y": -740
+    },
+    {
+      "height": 60,
+      "id": "786084b982c0ae7d",
+      "styleAttributes": {
+      },
+      "text": "[[Mapeamento Campos]]",
+      "type": "text",
+      "width": 260,
+      "x": -270,
+      "y": -503
+    },
+    {
+      "height": 180,
+      "id": "d5b1c2a50a006f1b",
+      "styleAttributes": {
+      },
+      "text": "# STEP\n\n- Importar o Actual Dump\n- Incorporar o nosso Dre\n- Update do que for necessário",
+      "type": "text",
+      "width": 960,
+      "x": -620,
+      "y": -370
+    },
+    {
+      "height": 180,
+      "id": "3da77d9de219f6de",
+      "styleAttributes": {
+      },
+      "text": "# STEP\n\n- Iniciar FastApi\n- Falar Mais a sério com o Vitrio",
+      "type": "text",
+      "width": 960,
+      "x": -620,
+      "y": -30
+    },
+    {
+      "height": 140,
+      "id": "9b755b095f445194",
+      "styleAttributes": {
+      },
+      "text": "# STEP\n\n- Analisar\n- Produzir Documentação",
+      "type": "text",
+      "width": 960,
+      "x": -620,
+      "y": -1360
+    },
+    {
+      "height": 60,
+      "id": "70d2094425d0f5ac",
+      "styleAttributes": {
+      },
+      "text": "[[Alterações Detectadas]]",
+      "type": "text",
+      "width": 260,
+      "x": -270,
+      "y": -1120
+    },
+    {
+      "height": 140,
+      "id": "a3e2de9c93b6406e",
+      "styleAttributes": {
+      },
+      "text": "# STEP\n\n- Implementar\n- Actualizar Documentação",
+      "type": "text",
+      "width": 960,
+      "x": -620,
+      "y": -980
+    },
+    {
+      "height": 250,
+      "id": "ecbc3ae26cc21f0d",
+      "styleAttributes": {
+      },
+      "text": "# STEP\n\n- Rever o estado o Laravel, quisá logo 12.\n- Dividir o middle-ware em dois, um já iniciado, outro será para a API\n\t- No normal podemos por a documentação da API e ainda login para outras operações/packages sobre a nossa app\n\t- Tudo para API call em controllers",
+      "type": "text",
+      "width": 960,
+      "x": 1160,
+      "y": -440
+    },
+    {
+      "height": 160,
+      "id": "3c87c17a730abd65",
+      "styleAttributes": {
+      },
+      "text": "# STEP\n\n- Recomeçar o Angular que irá trabalhar com a API",
+      "type": "text",
+      "width": 960,
+      "x": 2240,
+      "y": -395
+    },
+    {
+      "height": 160,
+      "id": "bf045baca8189bdc",
+      "styleAttributes": {
+      },
+      "text": "# STEP\n\n- Pode Começar Discretamente a [[Fase 3]]\n\t- Não Planeei so far-ahead, mas será tudo o que seja relacionado com a tratamento dos dados ",
+      "type": "text",
+      "width": 960,
+      "x": 1160,
+      "y": 320
+    }
+  ]
+}
